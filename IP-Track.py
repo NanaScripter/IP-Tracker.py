@@ -24,7 +24,7 @@ print("╚═╝╚═╝░░░░░  ░░░╚═╝░░░╚═�
 time.sleep(1)
 print(YELLOW+"*+*+*+*+*+*+*+*+*+*+*+*+*+*+*")
 time.sleep(1)
-print("Autor:    ElHombreVerde4Chan")
+print("Autor:    Nana")
 print("*+*+*+*+*+*+*+*+*+*+*+*+*+*+*\n \n")
 
 #API
