@@ -15,3 +15,5 @@ cd IP-Track
 pip install requests
 
 python IP-Track.py
+
+rachita de commit actualizando xd
